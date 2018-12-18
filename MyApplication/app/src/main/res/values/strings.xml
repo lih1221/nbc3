@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">부스트캠프 3기 안드로이드 사전과제</string>
+    <string name="hint">영화 제목을 최소 2글자 이상 입력해주세요</string>
+    <string name="search">검 색</string>
+    <string name="connect">인터넷 연결</string>
+    <string name="connectCheck">인터넷 연결을 확인하세요</string>
+    <string name="exit">닫기</string>
+    <string name="searchNotice">공백을 제외한 검색어를 최소 2글자 이상 입력해주세요</string>
+    <string name="noSearch">에 대한 검색결과가 존재하지 않습니다</string>
+    <string name="loading">loading...</string>
+    <string name="backButton">뒤로 버튼을 한번 더 누르시면 종료됩니다</string>
+
+
+</resources>
